@@ -1,6 +1,6 @@
 # Hi, I'm Shihab! 👋
 
-Welcome to my GitHub profile! I'm a passionate **Full Stack Developer** with a strong background in **software development**, **AI**, **web development**, and **digital marketing**. I love creating innovative solutions, learning new technologies, and contributing to open-source projects.
+Welcome to my GitHub profile! I'm a  **Full Stack Developer** with a strong background in **software development**, **AI**, **web development**, and **digital marketing**. I love creating innovative solutions, learning new technologies, and contributing to open-source projects.
 
 ---
 
