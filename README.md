@@ -28,9 +28,9 @@ Welcome to my GitHub profile! I'm a  **Full Stack Developer** with a strong back
 
 ## 💬 Let's Connect!
 
-- 📫 Email: shihab@example.com
-- 🔗 LinkedIn: [Shihab's LinkedIn](https://www.linkedin.com/in/shihab/)
-- 📝 Blog: [Shihab's Blog](https://shihabwrites.com)
+- 📫 Email: mdshihabshorkar2002@gmail.com
+- 🔗 LinkedIn:
+- 📝 Blog: 
 
 ---
 
