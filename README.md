@@ -1,58 +1,31 @@
-# Hi, I'm Shihab! 👋
+# 👋 Hello, I'm Md. Shihab Shorkar!
 
-Welcome to my GitHub profile! I'm a  **Full Stack Developer** with a strong background in **software development**, **AI**, **web development**, and **digital marketing**. I love creating innovative solutions, learning new technologies, and contributing to open-source projects.
+I’m a passionate and dedicated software developer with a strong academic background in Computer Science and Engineering. I’m currently in my final year, eager to apply my skills and knowledge in real-world projects. My journey so far has allowed me to develop expertise in a variety of technologies, from full-stack web development to machine learning, data science, and deep learning.
 
----
+## 🔧 Technologies I Work With:
+- **Languages**: Python, Java, C++, C#, JavaScript, PHP, HTML/CSS
+- **Web Technologies**: Laravel, MySQL, Node.js
+- **Machine Learning**: TensorFlow, Keras, Scikit-Learn
+- **Deep Learning**: TensorFlow, PyTorch
+- **DevOps**: Git, Bash Scripting, AWS, Linux
+- **Tools**: Jupyter, VSCode, GitHub, MySQL
 
-## 🚀 About Me
+## 💡 What I Do:
+- **Software Development**: Building robust and scalable applications tailored to meet the needs of users and businesses.
+- **Data Science & Machine Learning**: Creating models for prediction, classification, and analysis, using data-driven techniques to extract meaningful insights.
+- **Web Development**: Crafting dynamic and responsive websites using modern web technologies such as HTML, CSS, JavaScript, and PHP.
+- **AI & Automation**: Leveraging the power of AI to build intelligent systems, and using automation tools to streamline processes.
 
-- 🎓 **Education**: Bachelor of Science in Computer Science & Engineering
-- 💻 **Skills**:
-  - Frontend: HTML, CSS, JavaScript, React, Angular
-  - Backend: Node.js, PHP, Laravel, Express.js
-  - Database: MySQL, MongoDB
-  - Tools: Git, Docker, AWS
-  - Design: Canva, Figma
-  - SEO and Digital Marketing
-- 👨‍💻 I specialize in building **scalable web applications** and **AI-driven solutions**.
-- 🛠️ Always exploring new tools and frameworks to improve my skills.
+## 📚 Notable Projects:
+- **[3D Car Racing Game](#)**: A dynamic, physics-based 3D racing game developed using Unity, featuring multiple tracks and smooth gameplay.
+- **[Smart IT Helpdesk & Support System](#)**: A web-based platform designed to automate IT issue management within organizations, enhancing productivity and efficiency.
+- **[IoT-based Survey Bot](#)**: Built an IoT-based survey bot with Arduino and ESP32, aimed at weather monitoring in remote areas.
+- **[Melanoma Classification](#)**: An ensemble deep learning model combining ResNet50 and DenseNet121 to classify skin cancer, developed with TensorFlow and Keras.
+- **[News Scraper for NLP](#)**: Scraped news articles about Bangladesh from an online newspaper, storing the data in CSV format for further natural language processing tasks.
 
----
+## 🌱 Currently Exploring:
+- Deep Learning models for healthcare and automation.
+- Advanced web development frameworks like Laravel and React.
+- AI-powered applications in diverse industries.
 
-## 🌱 Current Projects
-
-- **Open-world Survival Game**: Currently building an open-world survival game using **Unity 2024**. It’s going to be a fun and challenging experience for players!
-- **Skin Cancer Detection with Deep Learning**: Developing an **ensemble deep learning model** using **VGG16**, **CapsNet**, and **ResNet** for **skin cancer detection**.
-
----
-
-## 💬 Let's Connect!
-
-- 📫 Email: mdshihabshorkar2002@gmail.com
-- 🔗 LinkedIn:
-- 📝 Blog: 
-
----
-
-## 📊 GitHub Stats
-
-![Shihab's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdShihabShorkarSuvo&show_icons=true&theme=radical)
-
----
-
-## 📈 Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdShihabShorkarSuvo&layout=compact&theme=radical)
-
----
-
-## 🔥 My Repositories
-
-Here are some of the repositories I’m most proud of:
-
-- [Deep Learning Skin Cancer Detection](https://github.com/mdShihabShorkarSuvo/deep-learning-skin-cancer-detection)
-- [Open-world Survival Game (Unity)](https://github.com/mdShihabShorkarSuvo/open-world-survival-game)
-
----
-
-Thanks for visiting my GitHub! Feel free to explore my repositories, contribute to open-source, or reach out if you want to collaborate! 😊
+Feel free to explore my repositories, and don't hesitate to reach out if you're interested in collaborating on projects or discussing technology!
